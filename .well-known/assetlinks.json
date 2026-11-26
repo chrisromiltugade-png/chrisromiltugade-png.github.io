@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.chrisromiltugade.akeopicafe",
+    "sha256_cert_fingerprints": ["67:BA:7B:89:1C:84:7A:F3:65:FE:BB:21:52:A6:EC:AB:97:E4:EC:BD:0F:A7:2C:EB:15:F8:1E:73:12:B8:0A:B8"]
+  }
+}]
